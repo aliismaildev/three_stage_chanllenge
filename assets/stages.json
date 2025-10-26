@@ -1,0 +1,19 @@
+{
+  "stages": [
+    {
+      "prompt": "Prompt A",
+      "answer": "alpha",
+      "hint": "Starts with A"
+    },
+    {
+      "prompt": "Prompt B",
+      "answer": "beta",
+      "hint": "Greek letter"
+    },
+    {
+      "prompt": "Prompt C",
+      "answer": "gamma",
+      "hint": "Radiation type"
+    }
+  ]
+}
